@@ -18,8 +18,8 @@ def main():
                 print(f"Skipping {full_path} due to missing GPS data.")
                 continue
             # Case doesn't matter in Windows
+            found = False
             for ext in ['.jpg', '.jpeg', '.png']:
-                found = False
                 if os.path.exists(full_path + ext):
                     found = True
                     command = f'exiftool -GPSLatitude*="{latitude}" -GPSLongitude*="{longitude}" "{full_path + ext}"'
