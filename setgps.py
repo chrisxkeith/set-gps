@@ -1,9 +1,13 @@
 import csv
 import os
+import platform
 
 def main():
     CSV_FILE = "C:\\Users\\chris\\Downloads\\List of Stinehour sites - Sites.csv"
     PICTURE_DIRECTORY = "C:\\Users\\chris\\Pictures\\Stinehour Sites\\"
+    if platform.system() == 'Linux':
+        CSV_FILE = "/home/ck/Downloads/List of Stinehour sites - Sites.csv"
+        PICTURE_DIRECTORY = "/home/ck/Pictures/Stinehour sites/"
     with open(CSV_FILE, mode='r', newline='') as file:
         reader = csv.DictReader(file)
         for row in reader:
@@ -18,7 +22,7 @@ def main():
                 continue
             # Case doesn't matter in Windows
             found = False
-            for ext in ['.jpg', '.jpeg', '.png']:
+            for ext in ['.jpg', '.jpeg', '.png', '']:
                 if os.path.exists(full_path + ext):
                     found = True
                     command = f'exiftool -GPSLatitude*="{latitude}" -GPSLongitude*="{longitude}" "{full_path + ext}"'
