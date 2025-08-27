@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Shorebird Park North Rock [https://photos.app.goo.gl/A2ZJ6BQwtJLeJ8eVA]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.315348,37.862696,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shorebird Park South Rock [https://photos.app.goo.gl/Jzmjo5ZBxJfJ6Ljg8]</name>
+      <description</description>
+      <Point>
+        <coordinates>-122.316120,37.861866,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
