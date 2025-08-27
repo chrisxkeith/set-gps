@@ -169,5 +169,19 @@
         <coordinates>-122.402965,37.793632,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>The Francis House [https://photos.app.goo.gl/TSU7LRDWUccy6AxV9]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.582273,38.576690,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>101 Second Street [https://photos.app.goo.gl/SCjjXiPVgsgXHDsq8]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.39957,37.78793,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
