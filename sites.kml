@@ -156,14 +156,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>??? [https://photos.app.goo.gl/fZ69rP6sjWabpVGe6]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.402527,37.793720,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Montgomery and Sacramento [https://photos.app.goo.gl/1v3YWvVQMNQB3DUM6]</name>
+      <name>Montgomery and Sacramento [https://photos.app.goo.gl/k7FVNKYJ4ydTeate9]</name>
       <description></description>
       <Point>
         <coordinates>-122.402965,37.793632,0</coordinates>
@@ -181,6 +174,13 @@
       <description></description>
       <Point>
         <coordinates>-122.39957,37.78793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Cruz Shakespeare Garden [https://photos.app.goo.gl/25N76FsgfCn8hNN48]</name>
+      <description></description>
+      <Point>
+        <coordinates>-121.996170,36.994374,0</coordinates>
       </Point>
     </Placemark>
   </Document>
