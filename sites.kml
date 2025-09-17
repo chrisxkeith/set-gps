@@ -197,5 +197,12 @@
         <coordinates>-122.275588,37.885082,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Henry Goodwin Bayne memoriaL [https://photos.app.goo.gl/5cEguP3H2hjHgUdu6]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.265975,37.878442,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
