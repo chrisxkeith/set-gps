@@ -121,7 +121,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Kirschenbaum Plaque [https://photos.app.goo.gl/1p4hWPzAr4ka4FSr5]</name>
+      <name>Book Club of California [https://photos.app.goo.gl/1p4hWPzAr4ka4FSr5]</name>
       <description></description>
       <Point>
         <coordinates>-122.4038306,37.7885664,0</coordinates>
@@ -198,10 +198,45 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Henry Goodwin Bayne memoriaL [https://photos.app.goo.gl/5cEguP3H2hjHgUdu6]</name>
+      <name>Henry Goodwin Bayne memorial [https://photos.app.goo.gl/5cEguP3H2hjHgUdu6]</name>
       <description></description>
       <Point>
         <coordinates>-122.265975,37.878442,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maurice Sendak Foundation [https://www.instagram.com/reel/CxwaELWgqkv/]</name>
+      <description></description>
+      <Point>
+        <coordinates>-73.54329595978832,41.351413308028924,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Getty Villa [https://photos.app.goo.gl/Lyoto7gBUD5opiNF7]</name>
+      <description></description>
+      <Point>
+        <coordinates>-118.56727839034926,34.041933142948814,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smith College Mace [https://www.instagram.com/p/CylriZvPsb7]</name>
+      <description></description>
+      <Point>
+        <coordinates>-72.64034168908243,42.31625157122581,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masonic Homes of California [https://photos.app.goo.gl/nDduof5TsrjUCYvo6]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.00632526671701,37.59810086225763,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restoration Hardware [https://photos.app.goo.gl/dYhUixAvgUN5sFLJ8]</name>
+      <description></description>
+      <Point>
+        <coordinates>-74.00653747556795,40.73995808535845,0</coordinates>
       </Point>
     </Placemark>
   </Document>
