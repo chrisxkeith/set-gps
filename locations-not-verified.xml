@@ -1,4 +1,6 @@
-    <!-- 
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
     <Placemark>
       <name>Ranger Station Cliff House? [https://photos.google.com/photo/AF1QipPxm8A5b5whhtxTUxmQFlv0m9ZTW1Q1CZ0BZQK3]</name>
       <description></description>
@@ -34,4 +36,5 @@
         <coordinates>-72.64034168908243,42.31625157122581,0</coordinates>
       </Point>
     </Placemark>
-    -->
+  </Document>
+</kml>
