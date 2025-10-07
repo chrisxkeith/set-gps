@@ -239,5 +239,19 @@
         <coordinates>-74.00653747556795,40.73995808535845,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Feeny Way [https://photos.app.goo.gl/WeK3GPNw8KYaR63CA]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.39333389710896,37.7676466942788,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abraham Lincoln Brigade Memorial [https://photos.app.goo.gl/oSiiZzCi5RneJXTT8]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.39515184466963,37.79549002182371,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

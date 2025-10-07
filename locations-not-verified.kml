@@ -2,38 +2,31 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <Placemark>
-      <name>Ranger Station Cliff House? [https://photos.google.com/photo/AF1QipPxm8A5b5whhtxTUxmQFlv0m9ZTW1Q1CZ0BZQK3]</name>
+      <name>Ranger Station? [https://photos.app.goo.gl/X2GMDbkFZo9HBT9w9]</name>
       <description></description>
       <Point>
-        <coordinates>-72.64034168908243,42.31625157122581,0</coordinates>
+        <coordinates>-122.49930970816635,37.71245066094831,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Arnold Palmer Statue Pebble Beach [https://photos.google.com/photo/AF1QipOIsVZQfsJZBFivowVL3fn1GOunTLV_qKRjXSSE]</name>
+      <name>Arnold Palmer Statue Pebble Beach [https://photos.app.goo.gl/HGBnuYzRabZwZvWj6]</name>
       <description></description>
       <Point>
-        <coordinates>-72.64034168908243,42.31625157122581,0</coordinates>
+        <coordinates>-121.94986280905434,36.569586267446006,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Emily Rachel Kassier Memorial [https://photos.google.com/photo/AF1QipPL47US29T8JgXsMey0T2U--eIoWh_uPD8x6s9C]</name>
+      <name>Emily Rachel Kassier [https://photos.app.goo.gl/bucEg4tatp543VE27]</name>
       <description></description>
       <Point>
-        <coordinates>-72.64034168908243,42.31625157122581,0</coordinates>
+        <coordinates>-122.23942049448915,37.83273342835469,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Neurohub East [https://photos.google.com/photo/AF1QipP7Zri1-inmIM31bf5a9GvJfXaVNob7Wzn7CyxZ]</name>
+      <name>Neurohub East [https://photos.app.goo.gl/PhxBJjgZnETVuE2N8]</name>
       <description></description>
       <Point>
-        <coordinates>-72.64034168908243,42.31625157122581,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Feeny Way [https://photos.google.com/photo/AF1QipOzi5z09kWRL-UfK4649mv_uCH3_3XEPDSFawH9]</name>
-      <description></description>
-      <Point>
-        <coordinates>-72.64034168908243,42.31625157122581,0</coordinates>
+        <coordinates>-122.39031229945428,37.76817832871377,0</coordinates>
       </Point>
     </Placemark>
   </Document>
