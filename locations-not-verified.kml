@@ -29,5 +29,40 @@
         <coordinates>-122.39031229945428,37.76817832871377,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Skidmore Owings and Merrill [https://photos.app.goo.gl/PhxBJjgZnETVuE2N8]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unknown [https://photos.app.goo.gl/KM1zE6svrsenvdmT9]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+     <Placemark>
+      <name>Loper Chapel [https://photos.app.goo.gl/ZoLBSjraw7iuAv3Q6]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>University of California at Santa Cruz [https://photos.app.goo.gl/HJh9hK2hGiRbqxQb8]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.05364478730327,36.98582799657002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Copia (no longer there) [https://photos.app.goo.gl/HEWkHxDsRQ8GesDZ8]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.27985140271258,38.30283261297875,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

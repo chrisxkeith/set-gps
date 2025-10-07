@@ -253,5 +253,26 @@
         <coordinates>-122.39515184466963,37.79549002182371,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Palace of the Legion of Honor [https://photos.app.goo.gl/sg4JRpxn7tMhPF6y6]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.5001253477295,37.78527891896044,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Workshop [https://photos.app.goo.gl/HdXB6WCG6zLMi4cC9]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lafayette Veterans Memorial Center [hhttps://photos.app.goo.gl/SyVytj8Ai1YswpEZ9]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.13414471575088,37.888544415047,0</coordinates>
+      </Point>
+    </Placemark>    
   </Document>
 </kml>
