@@ -274,5 +274,12 @@
         <coordinates>-122.13414471575088,37.888544415047,0</coordinates>
       </Point>
     </Placemark>    
+    <Placemark>
+      <name>Congregation El-Emanuel Fountain [https://photos.app.goo.gl/Q3NyK961J1JVPQuw7]</name>
+      <description></description>
+      <Point>
+        <coordinates>-122.45964165217863,37.787163364661225,0</coordinates>
+      </Point>
+    </Placemark>    
   </Document>
 </kml>
