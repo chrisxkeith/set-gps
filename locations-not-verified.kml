@@ -2,35 +2,35 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <Placemark>
-      <name>Ranger Station? [https://photos.app.goo.gl/X2GMDbkFZo9HBT9w9]</name>
+      <name>Lands End Lookout [https://photos.app.goo.gl/X2GMDbkFZo9HBT9w9]</name>
       <description></description>
       <Point>
-        <coordinates>-122.49930970816635,37.71245066094831,0</coordinates>
+        <coordinates> -122.51157797427128,37.77969753266949,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Arnold Palmer Statue Pebble Beach [https://photos.app.goo.gl/HGBnuYzRabZwZvWj6]</name>
+      <name>Arnold Palmer's Bay Hill Club and Lodge [https://photos.app.goo.gl/HGBnuYzRabZwZvWj6]</name>
       <description></description>
       <Point>
-        <coordinates>-121.94986280905434,36.569586267446006,0</coordinates>
+        <coordinates> -81.510169049730486,28.458524451083136,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Emily Rachel Kassier [https://photos.app.goo.gl/bucEg4tatp543VE27]</name>
+      <name>Emily Rachel Kassier Gravestone [https://photos.app.goo.gl/bucEg4tatp543VE27]</name>
       <description></description>
       <Point>
-        <coordinates>-122.23942049448915,37.83273342835469,0</coordinates>
+        <coordinates> -122.24242589528319,37.83473468434642,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Neurohub East [https://photos.app.goo.gl/PhxBJjgZnETVuE2N8]</name>
       <description></description>
       <Point>
-        <coordinates>-122.39031229945428,37.76817832871377,0</coordinates>
+        <coordinates> -122.26324677368197,37.87194665962538,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Skidmore Owings and Merrill [https://photos.app.goo.gl/PhxBJjgZnETVuE2N8]</name>
+      <name>Skidmore Owings and Merrill [https://photos.app.goo.gl/tPTMswprp91hE7YF9]</name>
       <description></description>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
@@ -47,14 +47,28 @@
       <name>Loper Chapel [https://photos.app.goo.gl/ZoLBSjraw7iuAv3Q6]</name>
       <description></description>
       <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+        <coordinates> -122.26141483696775,37.86721953317005,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>University of California at Santa Cruz [https://photos.app.goo.gl/HJh9hK2hGiRbqxQb8]</name>
+      <name>John Lewis College at University of California at Santa Cruz [https://photos.app.goo.gl/HJh9hK2hGiRbqxQb8]</name>
       <description></description>
       <Point>
-        <coordinates>-122.05364478730327,36.98582799657002,0</coordinates>
+        <coordinates> -122.0582428152011737.000020963949325,,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>University of California at Santa Cruz Main Entrance [https://photos.app.goo.gl/HJh9hK2hGiRbqxQb8]</name>
+      <description></description>
+      <Point>
+        <coordinates> -122.05335116935038,36.97752708108749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>University of California at Santa Cruz Coastal Science Campus [https://photos.app.goo.gl/HJh9hK2hGiRbqxQb8]</name>
+      <description></description>
+      <Point>
+        <coordinates> -122.06263484808036,36.954864636230134,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
