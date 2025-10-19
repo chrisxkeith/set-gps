@@ -5,7 +5,7 @@ import sys
 import re
 
 # To make it easier to pretty print the XML, use lxml instead of ElementTree.
-# "c:\Program Files\Python37\python.exe" -m pip install -U pip wheel setuptools
+# sudo apt install python3-pip
 # pip install lxml
 from lxml import etree
 
@@ -172,18 +172,7 @@ class Mapper:
             self.write_kml_file(added_records, root, kml_file_index, filename_prefix)
 
     def main(self):
-        self.transform_to_kml(self.data_dir + 'transformed_no_rand.csv', 'calced_no_rand', self.calced_coords_column_name)
-        self.transform_to_kml(self.data_dir + 'transformed.csv', 'calced_ref', self.calced_coords_column_name)
-        self.transform_to_kml(self.data_dir + 'transformed.csv', 'manual', self.manual_coords_column_name)
-
-        self.max_name_length = 0
-        self.max_desc_length = 0
-        self.transform_to_kml(self.data_dir + 'transformed.csv', 'calced', self.master_coords_column_name)
-        if show_stats:
-            log("{: >4d}".format(self.max_name_length) + ' max_name_length' + ' in ' + self.max_name_record)
-            log("{: >4d}".format(self.max_desc_length) + ' max_desc_length' + ' in ' + self.max_desc_record)
-            log("min_latitude: " + str(self.min_latitude) + ", max_latitude: " + str(self.max_latitude) + ", min_longitude: " + 
-                    str(self.min_longitude) + ", max_longitude: " + str(self.max_longitude))
+        log("testing")
 
 if '__main__' == __name__:
     Mapper().main()
