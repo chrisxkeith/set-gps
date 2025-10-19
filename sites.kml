@@ -2,361 +2,361 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <Placemark>
+      <name>101 Second Street [https://photos.app.goo.gl/SCjjXiPVgsgXHDsq8]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.39957,37.78793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>120 Kearny [https://photos.app.goo.gl/5M6joCY9KunKfTfx7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.403999,37.789251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abraham Lincoln Brigade Memorial [https://photos.app.goo.gl/oSiiZzCi5RneJXTT8]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.39515184466963,37.79549002182371,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arnold Palmer's Bay Hill Club and Lodge [https://photos.app.goo.gl/HGBnuYzRabZwZvWj6]</name>
+      <description/>
+      <Point>
+        <coordinates> -81.510169049730486,28.458524451083136,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Astani [https://photos.app.goo.gl/1AorqUvK3BZA8GX38]</name>
+      <description/>
+      <Point>
+        <coordinates>-118.4028777,34.0673979,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Austin City Hall [https://photos.app.goo.gl/tEXfyPuJvnhGT6wq6]</name>
+      <description/>
+      <Point>
+        <coordinates>-97.7471506,30.2651114,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berkeley Sundial [https://photos.app.goo.gl/dXDj6mA3wDagJ2wF9]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.275588,37.885082,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Book Club of California [https://photos.app.goo.gl/1p4hWPzAr4ka4FSr5]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.4038306,37.7885664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cesar Chavez Memorial Solar Calendar [https://photos.app.goo.gl/NCRKB9TDLhb4x7Fc7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.32142412336506,37.87311823692908,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Congregation El-Emanuel Fountain [https://photos.app.goo.gl/Q3NyK961J1JVPQuw7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.45964165217863,37.787163364661225,0</coordinates>
+      </Point>
+    </Placemark>    
+    <Placemark>
+      <name>Copia [https://photos.app.goo.gl/HEWkHxDsRQ8GesDZ8]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27985140271258,38.30283261297875,0</coordinates>
+      </Point>
+    </Placemark>
+  <Placemark>
+      <name>East Asian Library [https://photos.app.goo.gl/bj8dAP5Zcw53mHF18]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.2603015,37.8735757,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elmer Bischoff Gravestone [https://photos.app.goo.gl/ok7fNsMkDPHpJQCn7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.2909355,37.9054794,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emily Rachel Kassier Gravestone [https://photos.app.goo.gl/bucEg4tatp543VE27]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.24242589528319,37.83473468434642,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Feeny Way [https://photos.app.goo.gl/WeK3GPNw8KYaR63CA]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.39333389710896,37.7676466942788,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Getty Villa [https://photos.app.goo.gl/Lyoto7gBUD5opiNF7]</name>
+      <description/>
+      <Point>
+        <coordinates>-118.56727839034926,34.041933142948814,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grabhorn Donor Library [https://photos.app.goo.gl/EqrfQuuTzyaCZ7Kh7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.431964,37.806696,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Henry Goodwin Bayne memorial [https://photos.app.goo.gl/5cEguP3H2hjHgUdu6]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.265975,37.878442,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>John Lewis College at University of California at Santa Cruz [https://photos.app.goo.gl/HJh9hK2hGiRbqxQb8]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.0582428152011737.000020963949325,,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lafayette Veterans Memorial Center [https://photos.app.goo.gl/SyVytj8Ai1YswpEZ9]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.13414471575088,37.888544415047,0</coordinates>
+      </Point>
+    </Placemark>    
+    <Placemark>
+      <name>Lands End Lookout [https://photos.app.goo.gl/X2GMDbkFZo9HBT9w9]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.51157797427128,37.77969753266949,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Legion of Honor Cornerstone [https://photos.app.goo.gl/DvW58WPzvG9n4Gqt5]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.50083,37.78446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Loper Chapel [https://photos.app.goo.gl/ZoLBSjraw7iuAv3Q6]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.26141483696775,37.86721953317005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masonic Homes of California [https://photos.app.goo.gl/nDduof5TsrjUCYvo6]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.00632526671701,37.59810086225763,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maurice Sendak Foundation [https://www.instagram.com/reel/CxwaELWgqkv/]</name>
+      <description/>
+      <Point>
+        <coordinates>-73.54329595978832,41.351413308028924,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montgomery and Sacramento [https://photos.app.goo.gl/k7FVNKYJ4ydTeate9]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.402965,37.793632,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>National AIDS Memorial Grove [https://photos.app.goo.gl/tKDGmce2skfURjPj9]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.4630267,37.76956,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Neurohub East [https://photos.app.goo.gl/PhxBJjgZnETVuE2N8]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.26324677368197,37.87194665962538,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Dakota Museum of Art [https://photos.app.goo.gl/pa7zCmQCLicCD6WL8]</name>
+      <description/>
+      <Point>
+        <coordinates>-97.073699,47.919198,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orinda Community Church [https://photos.app.goo.gl/2e49MRqb3A4z1uBGA]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.1893663,37.8850671,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palace of the Legion of Honor [https://photos.app.goo.gl/sg4JRpxn7tMhPF6y6]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.5001253477295,37.78527891896044,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Presidio Tunnel Tops [https://photos.app.goo.gl/Jrb1zB7GdsxfFSxP8]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.456320,37.802859,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restoration Hardware [https://photos.app.goo.gl/dYhUixAvgUN5sFLJ8]</name>
+      <description/>
+      <Point>
+        <coordinates>-74.00653747556795,40.73995808535845,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Jose Bicentennial Plaza [https://photos.app.goo.gl/ENvmbVM6V6NbyKKN9]</name>
+      <description/>
+      <Point>
+        <coordinates>-121.8887042,37.3310638,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Jose Circle of Palms [https://photos.app.goo.gl/afMrRvc3R1BnXTsw7]</name>
+      <description/>
+      <Point>
+        <coordinates>-121.88964,37.33343,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Cruz Shakespeare Garden [https://photos.app.goo.gl/25N76FsgfCn8hNN48]</name>
+      <description/>
+      <Point>
+        <coordinates>-121.996170,36.994374,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Shorebird Park North Rock [https://photos.app.goo.gl/A2ZJ6BQwtJLeJ8eVA]</name>
-      <description></description>
+      <description/>
       <Point>
         <coordinates>-122.315348,37.862696,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Shorebird Park South Rock [https://photos.app.goo.gl/Jzmjo5ZBxJfJ6Ljg8]</name>
-      <description></description>
+      <description/>
       <Point>
         <coordinates>-122.316120,37.861866,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Presidio Tunnel Tops [https://photos.app.goo.gl/Jrb1zB7GdsxfFSxP8]</name>
-      <description></description>
+      <name>Skidmore Owings and Merrill [https://photos.app.goo.gl/tPTMswprp91hE7YF9]</name>
+      <description/>
       <Point>
-        <coordinates>-122.456320,37.802859,0</coordinates>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>North Dakota Museum of Art [https://photos.app.goo.gl/pa7zCmQCLicCD6WL8]</name>
-      <description></description>
+      <name>Smith College Mace [https://www.instagram.com/p/CylriZvPsb7]</name>
+      <description/>
       <Point>
-        <coordinates>-97.073699,47.919198,0</coordinates>
+        <coordinates>-72.64034168908243,42.31625157122581,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Duel Hole [https://photos.app.goo.gl/mfuH3nQseyzVDYx76]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.4935014,37.7080262,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Francis House [https://photos.app.goo.gl/TSU7LRDWUccy6AxV9]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.582273,38.576690,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>UC Berkeley Football Stadium Letter Replacement [https://photos.app.goo.gl/jixBbPU6xuo3PeFw6]</name>
-      <description></description>
+      <description/>
       <Point>
         <coordinates>-122.251407,37.87201428,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>UC Berkeley Law School [https://photos.app.goo.gl/eoocF6VmyDoobZ1B9]</name>
-      <description></description>
+      <description/>
       <Point>
         <coordinates>-122.252985,37.869682,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>UC Berkeley Law School [https://photos.app.goo.gl/nJoFAJYYfcC6xvtg6]</name>
-      <description></description>
+      <description/>
       <Point>
         <coordinates>-122.252985,37.869682,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Zuckerberg General Hospital [https://photos.app.goo.gl/k9G984y33fHdJPys7]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.4059742,37.7556143,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>East Asian Library [https://photos.app.goo.gl/bj8dAP5Zcw53mHF18]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.2603015,37.8735757,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Austin City Hall [https://photos.app.goo.gl/tEXfyPuJvnhGT6wq6]</name>
-      <description></description>
-      <Point>
-        <coordinates>-97.7471506,30.2651114,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>US Court of Appeals [https://photos.app.goo.gl/AhURb8XeWHmeQ1ar5]</name>
-      <description></description>
+      <description/>
       <Point>
         <coordinates>-122.411318,37.779778,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Grabhorn Donor Library [https://photos.app.goo.gl/EqrfQuuTzyaCZ7Kh7]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.431964,37.806696,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Astani [https://photos.app.goo.gl/1AorqUvK3BZA8GX38]</name>
-      <description></description>
-      <Point>
-        <coordinates>-118.4028777,34.0673979,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Orinda Community Church [https://photos.app.goo.gl/2e49MRqb3A4z1uBGA]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.1893663,37.8850671,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>The Duel Hole [https://photos.app.goo.gl/mfuH3nQseyzVDYx76]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.4935014,37.7080262,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>San Jose Bicentennial Plaza [https://photos.app.goo.gl/ENvmbVM6V6NbyKKN9]</name>
-      <description></description>
-      <Point>
-        <coordinates>-121.8887042,37.3310638,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Elmer Bischoff Gravestone [https://photos.app.goo.gl/ok7fNsMkDPHpJQCn7]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.2909355,37.9054794,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Book Club of California [https://photos.app.goo.gl/1p4hWPzAr4ka4FSr5]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.4038306,37.7885664,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>San Jose Circle of Palms [https://photos.app.goo.gl/afMrRvc3R1BnXTsw7]</name>
-      <description></description>
-      <Point>
-        <coordinates>-121.88964,37.33343,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Legion of Honor Cornerstone [https://photos.app.goo.gl/DvW58WPzvG9n4Gqt5]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.50083,37.78446,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>National AIDS Memorial Grove [https://photos.app.goo.gl/tKDGmce2skfURjPj9]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.4630267,37.76956,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>120 Kearny [https://photos.app.goo.gl/5M6joCY9KunKfTfx7]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.403999,37.789251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Montgomery and Sacramento [https://photos.app.goo.gl/k7FVNKYJ4ydTeate9]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.402965,37.793632,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>The Francis House [https://photos.app.goo.gl/TSU7LRDWUccy6AxV9]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.582273,38.576690,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>101 Second Street [https://photos.app.goo.gl/SCjjXiPVgsgXHDsq8]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.39957,37.78793,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Santa Cruz Shakespeare Garden [https://photos.app.goo.gl/25N76FsgfCn8hNN48]</name>
-      <description></description>
-      <Point>
-        <coordinates>-121.996170,36.994374,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Cesar Chavez Memorial Solar Calendar [https://photos.app.goo.gl/NCRKB9TDLhb4x7Fc7]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.32142412336506,37.87311823692908,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Berkeley Sundial [https://photos.app.goo.gl/dXDj6mA3wDagJ2wF9]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.275588,37.885082,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Henry Goodwin Bayne memorial [https://photos.app.goo.gl/5cEguP3H2hjHgUdu6]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.265975,37.878442,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Maurice Sendak Foundation [https://www.instagram.com/reel/CxwaELWgqkv/]</name>
-      <description></description>
-      <Point>
-        <coordinates>-73.54329595978832,41.351413308028924,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Getty Villa [https://photos.app.goo.gl/Lyoto7gBUD5opiNF7]</name>
-      <description></description>
-      <Point>
-        <coordinates>-118.56727839034926,34.041933142948814,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Smith College Mace [https://www.instagram.com/p/CylriZvPsb7]</name>
-      <description></description>
-      <Point>
-        <coordinates>-72.64034168908243,42.31625157122581,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Masonic Homes of California [https://photos.app.goo.gl/nDduof5TsrjUCYvo6]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.00632526671701,37.59810086225763,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Restoration Hardware [https://photos.app.goo.gl/dYhUixAvgUN5sFLJ8]</name>
-      <description></description>
-      <Point>
-        <coordinates>-74.00653747556795,40.73995808535845,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Feeny Way [https://photos.app.goo.gl/WeK3GPNw8KYaR63CA]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.39333389710896,37.7676466942788,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Abraham Lincoln Brigade Memorial [https://photos.app.goo.gl/oSiiZzCi5RneJXTT8]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.39515184466963,37.79549002182371,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Palace of the Legion of Honor [https://photos.app.goo.gl/sg4JRpxn7tMhPF6y6]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.5001253477295,37.78527891896044,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Workshop [https://photos.app.goo.gl/HdXB6WCG6zLMi4cC9]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Lafayette Veterans Memorial Center [https://photos.app.goo.gl/SyVytj8Ai1YswpEZ9]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.13414471575088,37.888544415047,0</coordinates>
-      </Point>
-    </Placemark>    
-    <Placemark>
-      <name>Congregation El-Emanuel Fountain [https://photos.app.goo.gl/Q3NyK961J1JVPQuw7]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.45964165217863,37.787163364661225,0</coordinates>
-      </Point>
-    </Placemark>    
-    <Placemark>
-      <name>Lands End Lookout [https://photos.app.goo.gl/X2GMDbkFZo9HBT9w9]</name>
-      <description></description>
-      <Point>
-        <coordinates> -122.51157797427128,37.77969753266949,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Arnold Palmer's Bay Hill Club and Lodge [https://photos.app.goo.gl/HGBnuYzRabZwZvWj6]</name>
-      <description></description>
-      <Point>
-        <coordinates> -81.510169049730486,28.458524451083136,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Emily Rachel Kassier Gravestone [https://photos.app.goo.gl/bucEg4tatp543VE27]</name>
-      <description></description>
-      <Point>
-        <coordinates> -122.24242589528319,37.83473468434642,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Neurohub East [https://photos.app.goo.gl/PhxBJjgZnETVuE2N8]</name>
-      <description></description>
-      <Point>
-        <coordinates> -122.26324677368197,37.87194665962538,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Skidmore Owings and Merrill [https://photos.app.goo.gl/tPTMswprp91hE7YF9]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Unknown [https://photos.app.goo.gl/KM1zE6svrsenvdmT9]</name>
-      <description></description>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-     <Placemark>
-      <name>Loper Chapel [https://photos.app.goo.gl/ZoLBSjraw7iuAv3Q6]</name>
-      <description></description>
-      <Point>
-        <coordinates> -122.26141483696775,37.86721953317005,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>John Lewis College at University of California at Santa Cruz [https://photos.app.goo.gl/HJh9hK2hGiRbqxQb8]</name>
-      <description></description>
-      <Point>
-        <coordinates> -122.0582428152011737.000020963949325,,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>University of California at Santa Cruz Main Entrance [https://photos.app.goo.gl/HJh9hK2hGiRbqxQb8]</name>
-      <description></description>
-      <Point>
-        <coordinates> -122.05335116935038,36.97752708108749,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>University of California at Santa Cruz Coastal Science Campus [https://photos.app.goo.gl/HJh9hK2hGiRbqxQb8]</name>
-      <description></description>
+      <description/>
       <Point>
         <coordinates> -122.06263484808036,36.954864636230134,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Copia [https://photos.app.goo.gl/HEWkHxDsRQ8GesDZ8]</name>
-      <description></description>
+      <name>University of California at Santa Cruz Main Entrance [https://photos.app.goo.gl/HJh9hK2hGiRbqxQb8]</name>
+      <description/>
       <Point>
-        <coordinates>-122.27985140271258,38.30283261297875,0</coordinates>
+        <coordinates> -122.05335116935038,36.97752708108749,0</coordinates>
       </Point>
     </Placemark>
-  </Document>
+    <Placemark>
+      <name>Unknown [https://photos.app.goo.gl/KM1zE6svrsenvdmT9]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+     <Placemark>
+      <name>Workshop [https://photos.app.goo.gl/HdXB6WCG6zLMi4cC9]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zuckerberg General Hospital [https://photos.app.goo.gl/k9G984y33fHdJPys7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.4059742,37.7556143,0</coordinates>
+      </Point>
+    </Placemark>
+    </Document>
 </kml>
