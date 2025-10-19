@@ -93,6 +93,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Embassy of the United States of America Ottowa [https://photos.app.goo.gl/YWYE8UNkmY8m2vP49]</name>
+      <description/>
+      <Point>
+        <coordinates> -75.69568393415992,45.427955164423715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Emily Rachel Kassier Gravestone [https://photos.app.goo.gl/bucEg4tatp543VE27]</name>
       <description/>
       <Point>
@@ -131,7 +138,7 @@
       <name>John Lewis College at University of California at Santa Cruz [https://photos.app.goo.gl/oXzGofWiqLQLQsqQ7]</name>
       <description/>
       <Point>
-        <coordinates> -122.05824281520117,37.000020963949325,,0</coordinates>
+        <coordinates> -122.05824281520117,37.000020963949325,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -272,6 +279,20 @@
       <description/>
       <Point>
         <coordinates>-72.64034168908243,42.31625157122581,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stanford University [https://photos.app.goo.gl/EqqD1b6RVa9wC5wz7]</name>
+      <description/>
+      <Point>
+        <coordinates>  -122.17024418749229,37.42749978568749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stevenson School [https://photos.app.goo.gl/dRJsHcwhEYdqrSP58]</name>
+      <description/>
+      <Point>
+        <coordinates> -121.9515158450952,36.58256061992734,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
