@@ -9,8 +9,6 @@ import re
 # pip install lxml
 from lxml import etree # type: ignore
 
-show_stats = False
-
 def log(message):
     script_name = sys.argv[0]
     print(str(datetime.datetime.now()) + '\t'+ script_name + ': ' + message)
