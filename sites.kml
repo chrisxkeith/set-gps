@@ -163,6 +163,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Hanna Winery - to be located [https://photos.app.goo.gl/jeqvCekZqta7EWPq7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Henry Goodwin Bayne memorial [https://photos.app.goo.gl/5cEguP3H2hjHgUdu6]</name>
       <description/>
       <Point>
@@ -236,7 +243,7 @@
       <name>Mission and Fremont / Salesforce tower [https://photos.app.goo.gl/cRsoxkpKwYKPuupH9]</name>
       <description/>
       <Point>
-        <coordinates> -122.3967129556417637.79059854749393,,0</coordinates>
+        <coordinates> -122.39671295564176,37.79059854749393,,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -268,6 +275,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>One Swanton Road - to be located [https://photos.app.goo.gl/vtp69oYJvY3FGNp66]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Orinda Community Church [https://photos.app.goo.gl/2e49MRqb3A4z1uBGA]</name>
       <description/>
       <Point>
@@ -289,10 +303,31 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Philip M. Roth gravestone San Rafael - to be located [https://photos.app.goo.gl/GdNQAzPqfYUarj5k8]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Presidio Tunnel Tops [https://photos.app.goo.gl/Jrb1zB7GdsxfFSxP8]</name>
       <description/>
       <Point>
         <coordinates>-122.456320,37.802859,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quarry House Immigration Point - to be located [https://photos.app.goo.gl/7qbizNTvdALJaS1y6]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Renaissance Square Elevator Numbers [https://photos.app.goo.gl/Nt4ucnfUJ9VqRLTL9]</name>
+      <description/>
+      <Point>
+        <coordinates> -112.07471979204088,33.44899308518171,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -303,10 +338,38 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Rice family grave markers - to be located [https://photos.app.goo.gl/owpwpJ1qczUEMJxb8]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Richmond Recreation Center [https://photos.app.goo.gl/2T535hs82SdDjSTH6]</name>
       <description/>
       <Point>
         <coordinates> -122.47789103735599,37.783219842767984,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Russian Hill Bergruen residence - to be located [https://photos.app.goo.gl/6Bny3T1dEAwnhXmC6]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salk Institute Adler Court - to be located [https://photos.app.goo.gl/XyvmRfyxmn4qkspaA]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salk Institute Guenther Fountain - to be located [https://photos.app.goo.gl/QNiqiPVmzooiZZFQA]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -470,7 +533,7 @@
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
       </Point>
     </Placemark>
-  <Placemark>
+    <Placemark>
       <name>oakland school garden plaque - to be located [https://photos.app.goo.gl/xt1RuE3gCSgPh4wE9]</name>
       <description/>
       <Point>
