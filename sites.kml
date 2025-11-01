@@ -23,6 +23,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Alameda - contractor cornerstone - to be located [https://photos.app.goo.gl/u563BjuqZ1Hra5zw5]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Arnold Palmer's Bay Hill Club and Lodge [https://photos.app.goo.gl/HGBnuYzRabZwZvWj6]</name>
       <description/>
       <Point>
@@ -58,6 +65,27 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Booneville Cemetary gravestone - to be located [https://photos.app.goo.gl/29hH32nC3QkeNouSA]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bruce Wolfe plaque - to be located [https://photos.app.goo.gl/YM7FXvxXEuGNhu1j7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cathedral of Christ the Light [https://photos.app.goo.gl/oypm5ctN4pL5dAPF8]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.26330565098489,37.810400729491555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Cesar Chavez Memorial Solar Calendar [https://photos.app.goo.gl/NCRKB9TDLhb4x7Fc7]</name>
       <description/>
       <Point>
@@ -71,6 +99,13 @@
         <coordinates>-122.45964165217863,37.787163364661225,0</coordinates>
       </Point>
     </Placemark>    
+    <Placemark>
+      <name>Connecticut gravestone - to be located [https://photos.app.goo.gl/eeYpQWW9HZoh6Jkj8]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
     <Placemark>
       <name>Copia [https://photos.app.goo.gl/HEWkHxDsRQ8GesDZ8]</name>
       <description/>
@@ -135,10 +170,24 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Horowitz Stone / Louisville KY - to be located [https://photos.app.goo.gl/iv9DjPrdG2ihHraV7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>John Lewis College at University of California at Santa Cruz [https://photos.app.goo.gl/oXzGofWiqLQLQsqQ7]</name>
       <description/>
       <Point>
         <coordinates> -122.05824281520117,37.000020963949325,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LA gravestone - to be located [https://photos.app.goo.gl/TY2oKPohRbWeW2xY9]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -184,6 +233,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Mission and Fremont / Salesforce tower [https://photos.app.goo.gl/cRsoxkpKwYKPuupH9]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.3967129556417637.79059854749393,,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Montgomery and Sacramento [https://photos.app.goo.gl/k7FVNKYJ4ydTeate9]</name>
       <description/>
       <Point>
@@ -223,6 +279,13 @@
       <description/>
       <Point>
         <coordinates>-122.5001253477295,37.78527891896044,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palo Alto address numbers - to be located [https://photos.app.goo.gl/bm5KJqwh2SgoRuKX7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -289,6 +352,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Stanford - to be located [https://photos.app.goo.gl/hGmm11wjdFoWHDNp9]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Stanford University ??? [https://photos.app.goo.gl/EqqD1b6RVa9wC5wz7]</name>
       <description/>
       <Point>
@@ -338,6 +408,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>UC Business School [https://photos.app.goo.gl/WJGeKm2f15P2XFn86]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.25314326990534,37.87160763299046,0</coordinates>
+      </Point>
+    </Placemark>  
+    <Placemark>
+      <name>UCLA Gonda Diabetes Center [https://photos.app.goo.gl/eJNTARjG1BRVvn2L9]</name>
+      <description/>
+      <Point>
+        <coordinates>-118.4475775274608,34.06494513903421, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>US Court of Appeals [https://photos.app.goo.gl/AhURb8XeWHmeQ1ar5]</name>
       <description/>
       <Point>
@@ -373,182 +457,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>to be located 01* [https://photos.app.goo.gl/oypm5ctN4pL5dAPF8]</name>
-      <description/>
-      <Point>
-        <coordinates> -122.26330565098489,37.810400729491555,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>merge with Layfayette Vets [https://photos.app.goo.gl/LFvDovwJd6CYPD2t6]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>merge with Richmond Community Center [https://photos.app.goo.gl/bd3qtrHtcU4mLq4r5]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>asian art Museum (multiple photos) [https://photos.app.goo.gl/SBubS38uD5WQENJx6]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>more Berkeley Law [https://photos.app.goo.gl/ryniEaJZ24XqpQkZ7]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>sample for winery - no locations [https://photos.app.goo.gl/FhzuMEoTkA5bhzwj9]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>no location [https://photos.app.goo.gl/8otx3JyK1TXsQguy6]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Stanford - TBD [https://photos.app.goo.gl/Q8F1PmyQHdoLy2kFA]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>alameda contractor cornerstone [https://photos.app.goo.gl/hGmm11wjdFoWHDNp9]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>alameda contractor cornerstone [https://photos.app.goo.gl/u563BjuqZ1Hra5zw5]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>LA gravestone [https://photos.app.goo.gl/TY2oKPohRbWeW2xY9]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>LA gravestone [https://photos.app.goo.gl/mPyG8zdxtyMDFTYN6]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>merge into Masonic Home [https://photos.app.goo.gl/eySprHT7388q5Dox8]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>merge into Masonic Home  [https://photos.app.goo.gl/aVSEV3qwWaHMkXta7]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>no location [https://photos.app.goo.gl/hZ93iTnk8wz26sjZ8]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Palo Alto address numbers [https://photos.app.goo.gl/bm5KJqwh2SgoRuKX7]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Connecticut gravestone [https://photos.app.goo.gl/eeYpQWW9HZoh6Jkj8]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Bruce Wolfe plaque [https://photos.app.goo.gl/YM7FXvxXEuGNhu1j7]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>no location [https://photos.app.goo.gl/9LaQSZpGRy8yXMn68]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>oakland school garden plaque [https://photos.app.goo.gl/xt1RuE3gCSgPh4wE9]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>no location [https://photos.app.goo.gl/ejqF2uZ8Hypdbnur5]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Mission and Fremont / Salesforce tower [https://photos.app.goo.gl/cRsoxkpKwYKPuupH9]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>UCLA Gonda Building [https://photos.app.goo.gl/eJNTARjG1BRVvn2L9]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>UC Business School [https://photos.app.goo.gl/WJGeKm2f15P2XFn86]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>  
-    <Placemark>
-      <name>Horowitz Stone / Louisville KY [https://photos.app.goo.gl/iv9DjPrdG2ihHraV7]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Booneville Cemetary gravestone [https://photos.app.goo.gl/29hH32nC3QkeNouSA]</name>
       <description/>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
@@ -561,15 +470,8 @@
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
-      <name>no location [https://photos.app.goo.gl/sxyicDzDPpDkzVMQ9]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Alameda contractor cornerstone [https://photos.app.goo.gl/qoAiieeAvWjtoMsBA]</name>
+  <Placemark>
+      <name>oakland school garden plaque - to be located [https://photos.app.goo.gl/xt1RuE3gCSgPh4wE9]</name>
       <description/>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
