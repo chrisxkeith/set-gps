@@ -184,6 +184,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Immigration Point - Presidio [https://photos.app.goo.gl/7qbizNTvdALJaS1y6]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.47789813800479,37.7961440831137,0k</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>John Lewis College at University of California at Santa Cruz [https://photos.app.goo.gl/oXzGofWiqLQLQsqQ7]</name>
       <description/>
       <Point>
@@ -237,6 +244,13 @@
       <description/>
       <Point>
         <coordinates>-73.54329595978832,41.351413308028924,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>McInnes Cooper [https://photos.app.goo.gl/ptVDe7bRBRLrhYez8]</name>
+      <description/>
+      <Point>
+        <coordinates>-63.57433846047554,44.65207664751898,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -314,13 +328,6 @@
       <description/>
       <Point>
         <coordinates>-122.456320,37.802859,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Quarry House Immigration Point - to be located [https://photos.app.goo.gl/7qbizNTvdALJaS1y6]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
