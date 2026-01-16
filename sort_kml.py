@@ -18,9 +18,16 @@ class Sorter:
         kml = tree.getroot()
         document = kml[0]
         dict = {}
+        knownCount = 0
+        unknownCount = 0
         for placemark in document:
             dict[placemark[0].text] = placemark
-        log("# of points: " + str(len(dict)))
+            if (placemark[0].text.startswith("|")):
+                unknownCount += 1
+            else:
+                knownCount += 1
+        log("# of known points: " + str(knownCount))
+        log("# of unknown points: " + str(unknownCount))
         sortedPoints = sorted(dict.items(), key=lambda item: item[0])
         for placemark in document:
             document.remove(placemark)
