@@ -86,6 +86,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>California Theater San Jose [https://photos.app.goo.gl/1dHfnrFzkvy5Lunc9]</name>
+      <description/>
+      <Point>
+        <coordinates> -121.88681178849863,37.330919154408335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Cathedral of Christ the Light [https://photos.app.goo.gl/oypm5ctN4pL5dAPF8]</name>
       <description/>
       <Point>
@@ -324,6 +331,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Salk Institute Fountain [https://photos.app.goo.gl/yXLwB4eW2V4HD2sT6]</name>
+      <description/>
+      <Point>
+        <coordinates> -117.24657425073862,32.88710422961482,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>San Francisco Ferry Building [https://photos.app.goo.gl/wy5JQrpDUydk3DKH8]</name>
       <description/>
       <Point>
@@ -493,6 +507,13 @@
     </Placemark>
     <Placemark>
       <name>| Connecticut gravestone - to be located [https://photos.app.goo.gl/eeYpQWW9HZoh6Jkj8]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>| Fort Mason Center - to be located [https://photos.app.goo.gl/w1P5xBPJZJGDQb1j7]</name>
       <description/>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
