@@ -127,7 +127,14 @@
         <coordinates>-122.27985140271258,38.30283261297875,0</coordinates>
       </Point>
     </Placemark>
-  <Placemark>
+    <Placemark>
+      <name>Dartmouth Book Arts Workshop [https://photos.app.goo.gl/u6D2yMEc1YUSa4V89]</name>
+      <description/>
+      <Point>
+        <coordinates> -72.28871867385953,43.7052833132839,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>East Asian Library [https://photos.app.goo.gl/bj8dAP5Zcw53mHF18]</name>
       <description/>
       <Point>
@@ -549,6 +556,13 @@
     </Placemark>
     <Placemark>
       <name>| Connecticut gravestone - to be located [https://photos.app.goo.gl/eeYpQWW9HZoh6Jkj8]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>| First Unitarian Church - to be located [https://photos.app.goo.gl/jBH2b8DHr6MQAnzq9]</name>
       <description/>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
