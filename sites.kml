@@ -345,6 +345,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>One Union Square [https://photos.app.goo.gl/nkxToATSJrudJpvz9]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.40656973341987,37.78769318741716,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Orinda Community Church [https://photos.app.goo.gl/2e49MRqb3A4z1uBGA]</name>
       <description/>
       <Point>
@@ -619,6 +626,20 @@
     </Placemark>
     <Placemark>
       <name>| Hans Schiller Plaza - to be located [https://photos.app.goo.gl/opyfs1411tv9YdY97]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.40577448182367,37.71404690743669,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>| Hawaii Kai - to be located [https://photos.app.goo.gl/5ZAUyCv4JxcbJufUA]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>| Helen and Morton Memorial Court - to be located [https://photos.app.goo.gl/FHDUeZyUc91Nsu9YA]</name>
       <description/>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
