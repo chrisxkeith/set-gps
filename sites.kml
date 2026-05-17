@@ -142,6 +142,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Elevator Numbers [https://photos.app.goo.gl/EnJ71NVxJuU4A38cA]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27254701831193,37.80274993231759,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Elmer Bischoff Gravestone [https://photos.app.goo.gl/ok7fNsMkDPHpJQCn7]</name>
       <description/>
       <Point>
@@ -177,7 +184,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Francis Bauroim memorial [https://photos.app.goo.gl/Cmq4adtSziPfGvXX9]</name>
+      <name>Francis Baur memorial [https://photos.app.goo.gl/Cmq4adtSziPfGvXX9]</name>
       <description/>
       <Point>
         <coordinates>-122.260735,37.877246,0</coordinates>
@@ -548,6 +555,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Veterans Memorial [https://photos.app.goo.gl/u1vK5LKxK4AR1pS18]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.08577980881985,37.38890595179525,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Zuckerberg General Hospital [https://photos.app.goo.gl/k9G984y33fHdJPys7]</name>
       <description/>
       <Point>
@@ -658,7 +672,14 @@
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
       </Point>
-    </Placemark>    
+    </Placemark>
+    <Placemark>
+      <name>| Lori Meislin Memorial - to be located [https://photos.app.goo.gl/adPYF7kkzBagRDNU7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
     <Placemark>
       <name>| Oakland school garden plaque - to be located [https://photos.app.goo.gl/xt1RuE3gCSgPh4wE9]</name>
       <description/>
@@ -724,6 +745,20 @@
     </Placemark>
     <Placemark>
       <name>| San Jose Dublin Sister City - to be located [https://photos.app.goo.gl/seTcVbGKhzAbh9AAA]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>| Scripps Research - to be located [https://photos.app.goo.gl/9jZm2oqPtJyQibp29]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>| Sequoyah Heights Oakland - to be located [https://photos.app.goo.gl/RkkGYDNsTQKe7K6m8]</name>
       <description/>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
