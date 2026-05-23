@@ -93,6 +93,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Boonville Cemetery gravestone [https://photos.app.goo.gl/29hH32nC3QkeNouSA]</name>
+      <description/>
+      <Point>
+        <coordinates>-123.383804253261,39.02529333585019,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Book Club of California [https://photos.app.goo.gl/1p4hWPzAr4ka4FSr5]</name>
       <description/>
       <Point>
@@ -577,13 +584,6 @@
     </Placemark>
     <Placemark>
       <name>| Alameda - contractor cornerstone - to be located [https://photos.app.goo.gl/u563BjuqZ1Hra5zw5]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>| Booneville Cemetary gravestone - to be located [https://photos.app.goo.gl/29hH32nC3QkeNouSA]</name>
       <description/>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
