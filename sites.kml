@@ -30,6 +30,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>2 Wellesley Drive, Lafayette, CA [https://photos.app.goo.gl/FwH1DAkA6g4Nnpp79]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.16071069104834,37.914322963949175,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>560 Mission Street, San Francisco, CA [https://photos.app.goo.gl/2zggUfoxAiZ2968V7]</name>
       <description/>
       <Point>
@@ -93,17 +100,17 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Boonville Cemetery gravestone [https://photos.app.goo.gl/29hH32nC3QkeNouSA]</name>
-      <description/>
-      <Point>
-        <coordinates>-123.383804253261,39.02529333585019,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Book Club of California [https://photos.app.goo.gl/1p4hWPzAr4ka4FSr5]</name>
       <description/>
       <Point>
         <coordinates>-122.4038306,37.7885664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boonville Cemetery gravestone [https://photos.app.goo.gl/29hH32nC3QkeNouSA]</name>
+      <description/>
+      <Point>
+        <coordinates>-123.383804253261,39.02529333585019,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -324,6 +331,27 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Muni T Line - Third/Kirkwood/La Salle [https://photos.app.goo.gl/wfS9Jk79yjCgp1uC9]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.38975990858034,37.73756224583593,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Muni T Line - Third/Oakdale/Palou [https://photos.app.goo.gl/2MTi8a8U7ezrkGKx5]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.39279540222515,37.73509460190548,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Muni T Line - Third/Revere/Shafter [https://photos.app.goo.gl/KdCnir9hqw54G7wK6]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.39160990154726,37.73207972938004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>National AIDS Memorial Grove [https://photos.app.goo.gl/tKDGmce2skfURjPj9]</name>
       <description/>
       <Point>
@@ -422,7 +450,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>San Francisco Hall of Justice - to be located [https://photos.app.goo.gl/W5KcGTwGSUZFN8Ed6]</name>
+      <name>San Francisco Hall of Justice [https://photos.app.goo.gl/W5KcGTwGSUZFN8Ed6]</name>
       <description/>
       <Point>
         <coordinates>-122.4038587009762,37.77529425214685,0</coordinates>
@@ -450,6 +478,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Sequoyah Highlands [https://photos.app.goo.gl/U2riFAbppebHMnAC8]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.14099633898503,37.756700519646145,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Shorebird Park North Rock [https://photos.app.goo.gl/A2ZJ6BQwtJLeJ8eVA]</name>
       <description/>
       <Point>
@@ -471,10 +506,17 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Stanford Golf Course [https://photos.app.goo.gl/ED3z3uWKD2Z7NeJ48]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.18372931623225,37.42154601000655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Stanford University Quad [https://photos.app.goo.gl/EqqD1b6RVa9wC5wz7]</name>
       <description/>
       <Point>
-        <coordinates>  -122.17024418749229,37.42749978568749,0</coordinates>
+        <coordinates>-122.17024418749229,37.42749978568749,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -580,6 +622,13 @@
       <description/>
       <Point>
         <coordinates>-122.4059742,37.7556143,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>| 450 Palm Circle ?, Stanford - to be located [https://photos.app.goo.gl/FxfhigSB37WvZKSv7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -709,12 +758,22 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>| Phil Knight quote / Stanford Business School - to be located [https://photos.app.goo.gl/A6BWEyDtz1KsUZbp7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+
+
+    <Placemark>
       <name>| Philip M. Roth gravestone San Rafael - to be located [https://photos.app.goo.gl/GdNQAzPqfYUarj5k8]</name>
       <description/>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
       </Point>
     </Placemark>
+
     <Placemark>
       <name>| Rice family grave markers - to be located [https://photos.app.goo.gl/owpwpJ1qczUEMJxb8]</name>
       <description/>
