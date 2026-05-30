@@ -702,7 +702,21 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>| Chicago Board of Trade - to be located [https://photos.app.goo.gl/AwAsEvyDC2Pfoz3fA]</name>
+      <name>| Chicago Board of Trade 1 - to be located [https://photos.app.goo.gl/AwAsEvyDC2Pfoz3fA]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>| Chicago Board of Trade 2 - to be located [https://photos.app.goo.gl/AwAsEvyDC2Pfoz3fA]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>| Chicago Board of Trade 3 - to be located [https://photos.app.goo.gl/AwAsEvyDC2Pfoz3fA]</name>
       <description/>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
