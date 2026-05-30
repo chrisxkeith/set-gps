@@ -37,6 +37,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>450 Palm Drive, Palo Alto [https://photos.app.goo.gl/FxfhigSB37WvZKSv7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.169727289029,37.42889592941151,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>560 Mission Street, San Francisco, CA [https://photos.app.goo.gl/2zggUfoxAiZ2968V7]</name>
       <description/>
       <Point>
@@ -90,6 +97,13 @@
       <description/>
       <Point>
         <coordinates>-97.7471506,30.2651114,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Backroads Berkeley [https://photos.app.goo.gl/1a78LiWST5R58yScA]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.30049942276872,37.87410926512618,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -191,6 +205,20 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Fleischman Theater [https://photos.app.goo.gl/cKJ19boi1bu2Ectp9]</name>
+      <description/>
+      <Point>
+        <coordinates>-118.5654657968946,34.045811268122684,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort Mason Center [https://photos.app.goo.gl/w1P5xBPJZJGDQb1j7]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.43192935515833,37.80548164223504,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Foundry Square IV [https://photos.app.goo.gl/xdRx3KVmy7eae434A]</name>
       <description/>
       <Point>
@@ -230,6 +258,20 @@
       <description/>
       <Point>
         <coordinates>-122.431964,37.806696,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gunn Building, Sanford [https://photos.app.goo.gl/A6BWEyDtz1KsUZbp7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.16331144629376,37.42821747869341,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hans Schiller Plaza [https://photos.app.goo.gl/opyfs1411tv9YdY97]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.4065150799766,37.712428401241354,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -293,6 +335,13 @@
       <description/>
       <Point>
         <coordinates> -122.26141483696775,37.86721953317005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lori Meislin Memorial [https://photos.app.goo.gl/adPYF7kkzBagRDNU7]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.48515945212735,37.89207964603242,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -471,6 +520,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>San Jose Dublin Sister City - permanently closed [https://photos.app.goo.gl/seTcVbGKhzAbh9AAA]</name>
+      <description/>
+      <Point>
+        <coordinates>-121.89215875547961,37.32825361296508,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Santa Cruz Shakespeare Garden [https://photos.app.goo.gl/25N76FsgfCn8hNN48]</name>
       <description/>
       <Point>
@@ -597,6 +653,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Unitarian Church [https://photos.app.goo.gl/jBH2b8DHr6MQAnzq9]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.27690849021124,37.80651375959349,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>University of California at Santa Cruz Coastal Science Campus [https://photos.app.goo.gl/723Nt2FQ96omgcEGA]</name>
       <description/>
       <Point>
@@ -622,13 +685,6 @@
       <description/>
       <Point>
         <coordinates>-122.4059742,37.7556143,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>| 450 Palm Circle ?, Stanford - to be located [https://photos.app.goo.gl/FxfhigSB37WvZKSv7]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -660,27 +716,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>| First Unitarian Church - to be located [https://photos.app.goo.gl/jBH2b8DHr6MQAnzq9]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>| Fleischman Theater - to be located [https://photos.app.goo.gl/cKJ19boi1bu2Ectp9]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>| Fort Mason Center - to be located [https://photos.app.goo.gl/w1P5xBPJZJGDQb1j7]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>| Habitat for Humanity - to be located [https://photos.app.goo.gl/uPF88FFr4bcMt6V87]</name>
       <description/>
       <Point>
@@ -695,14 +730,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>| Hans Schiller Plaza - to be located [https://photos.app.goo.gl/opyfs1411tv9YdY97]</name>
-      <description/>
-      <Point>
-        <coordinates> -122.40577448182367,37.71404690743669,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>| Hawaii Kai - to be located [https://photos.app.goo.gl/5ZAUyCv4JxcbJufUA]</name>
+      <name>| Hawaii Kai - to be located [https://photos.app.goo.gl/r35zq1nDjpz8x7c96]</name>
       <description/>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
@@ -730,13 +758,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>| Lori Meislin Memorial - to be located [https://photos.app.goo.gl/adPYF7kkzBagRDNU7]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>| Oakland school garden plaque - to be located [https://photos.app.goo.gl/xt1RuE3gCSgPh4wE9]</name>
       <description/>
       <Point>
@@ -758,22 +779,12 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>| Phil Knight quote / Stanford Business School - to be located [https://photos.app.goo.gl/A6BWEyDtz1KsUZbp7]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-
-
-    <Placemark>
       <name>| Philip M. Roth gravestone San Rafael - to be located [https://photos.app.goo.gl/GdNQAzPqfYUarj5k8]</name>
       <description/>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <name>| Rice family grave markers - to be located [https://photos.app.goo.gl/owpwpJ1qczUEMJxb8]</name>
       <description/>
@@ -803,13 +814,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>| San Jose Dublin Sister City - to be located [https://photos.app.goo.gl/seTcVbGKhzAbh9AAA]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>| Scripps Research - to be located [https://photos.app.goo.gl/9jZm2oqPtJyQibp29]</name>
       <description/>
       <Point>
@@ -825,13 +829,6 @@
     </Placemark>
     <Placemark>
       <name>| Shelby White and Leon Levy Fountain - to be located [https://photos.app.goo.gl/WbitRXJAfLtLkdkF6]</name>
-      <description/>
-      <Point>
-        <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>| Stanford - to be located [https://photos.app.goo.gl/hGmm11wjdFoWHDNp9]</name>
       <description/>
       <Point>
         <coordinates>-122.27607851394745,37.861184460532726,0</coordinates>
