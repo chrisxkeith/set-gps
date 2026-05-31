@@ -42,7 +42,7 @@ class Sorter:
             else:
                 knownCount += 1
         log("# of known points: " + str(knownCount))
-        log("# of unknown points: " + str(unknownCount))
+        # log("# of unknown points: " + str(unknownCount))
         sortedPoints = sorted(dict.items(), key=lambda item: item[0])
         for placemark in document:
             document.remove(placemark)
@@ -67,7 +67,7 @@ class Sorter:
         tree = etree.parse(fn)
         self.do_sort(tree)
         self.write_kml_file(fn, tree)
-        self.write_unknowns()
+        # self.write_unknowns()
 
 if '__main__' == __name__:
     Sorter().main()
