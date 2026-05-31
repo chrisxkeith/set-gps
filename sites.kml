@@ -478,6 +478,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Parque de Los Pobladores [https://photos.app.goo.gl/3qhx8ks6ykKqUnr89]</name>
+      <description/>
+      <Point>
+        <coordinates>-121.8850919142782,37.328396175017005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Presidio Tunnel Tops [https://photos.app.goo.gl/Jrb1zB7GdsxfFSxP8]</name>
       <description/>
       <Point>
@@ -580,6 +587,13 @@
       <description/>
       <Point>
         <coordinates>-72.64034168908243,42.31625157122581,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Josephs San Jose [https://photos.app.goo.gl/rLHHvSn862CDaDXw7]</name>
+      <description/>
+      <Point>
+        <coordinates>-121.89045162982741,37.33396747363472,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
