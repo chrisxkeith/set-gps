@@ -122,25 +122,24 @@ class Sorter:
 
     def check_unknowns(self):
         unknowns = [
-            "https://photos.app.goo.gl/u563BjuqZ1Hra5zw",
-            "https://photos.app.goo.gl/YM7FXvxXEuGNhu1j",
-            "https://photos.app.goo.gl/eeYpQWW9HZoh6Jkj",
-            "https://photos.app.goo.gl/uPF88FFr4bcMt6V8",
-            "https://photos.app.goo.gl/jeqvCekZqta7EWPq",
-            "https://photos.app.goo.gl/r35zq1nDjpz8x7c9",
-            "https://photos.app.goo.gl/XyvmRfyxmn4qkspaA",
-            "https://photos.app.goo.gl/iv9DjPrdG2ihHraV",
-            "https://photos.app.goo.gl/TY2oKPohRbWeW2xY",
-            "https://photos.app.goo.gl/xt1RuE3gCSgPh4wE",
-            "https://photos.app.goo.gl/vtp69oYJvY3FGNp6",
-            "https://photos.app.goo.gl/bm5KJqwh2SgoRuKX",
-            "https://photos.app.goo.gl/GdNQAzPqfYUarj5k",
-            "https://photos.app.goo.gl/owpwpJ1qczUEMJxb",
-            "https://photos.app.goo.gl/6Bny3T1dEAwnhXmC",
-            "https://photos.app.goo.gl/yXLwB4eW2V4HD2sT6",
-            "https://photos.app.goo.gl/9jZm2oqPtJyQibp2",
-            "https://photos.app.goo.gl/RkkGYDNsTQKe7K6m",
-            "https://photos.app.goo.gl/WbitRXJAfLtLkdkF"]
+"https://photos.app.goo.gl/u563BjuqZ1Hra5zw5",
+"https://photos.app.goo.gl/YM7FXvxXEuGNhu1j7",
+"https://photos.app.goo.gl/eeYpQWW9HZoh6Jkj8",
+"https://photos.app.goo.gl/uPF88FFr4bcMt6V87",
+"https://photos.app.goo.gl/jeqvCekZqta7EWPq7",
+"https://photos.app.goo.gl/r35zq1nDjpz8x7c96",
+"https://photos.app.goo.gl/XyvmRfyxmn4qkspaA",
+"https://photos.app.goo.gl/iv9DjPrdG2ihHraV7",
+"https://photos.app.goo.gl/TY2oKPohRbWeW2xY9",
+"https://photos.app.goo.gl/xt1RuE3gCSgPh4wE9",
+"https://photos.app.goo.gl/vtp69oYJvY3FGNp66",
+"https://photos.app.goo.gl/bm5KJqwh2SgoRuKX7",
+"https://photos.app.goo.gl/GdNQAzPqfYUarj5k8",
+"https://photos.app.goo.gl/owpwpJ1qczUEMJxb8",
+"https://photos.app.goo.gl/6Bny3T1dEAwnhXmC6",
+"https://photos.app.goo.gl/XyvmRfyxmn4qkspaA",
+"https://photos.app.goo.gl/RkkGYDNsTQKe7K6m8",
+"https://photos.app.goo.gl/WbitRXJAfLtLkdkF6"]
 
         results = verify_urls(unknowns)
         for url, is_valid, status in results:
