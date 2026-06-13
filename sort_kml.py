@@ -143,9 +143,7 @@ class Sorter:
 
         results = verify_urls(unknowns)
         for url, is_valid, status in results:
-            if is_valid:
-                log("Valid URL: " + url + " (status: " + str(status) + ")")
-            else:
+            if not is_valid:
                 log("Invalid URL: " + url + " (status: " + str(status) + ")")
 
 if '__main__' == __name__:
