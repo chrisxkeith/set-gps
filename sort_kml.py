@@ -1,6 +1,8 @@
+# real    3m36.506
 # Raw material for CSV <-> KML
 import csv
 import datetime
+from time import sleep
 import sys
 import re
 import urllib.request
@@ -36,6 +38,7 @@ def verify_urls(urls):
             results.append((url, False, status))
         else:
             results.append((url, True, status))
+        sleep(1)
     print(flush=True)
     return results
 
@@ -128,7 +131,6 @@ class Sorter:
 "https://photos.app.goo.gl/uPF88FFr4bcMt6V87",
 "https://photos.app.goo.gl/jeqvCekZqta7EWPq7",
 "https://photos.app.goo.gl/r35zq1nDjpz8x7c96",
-"https://photos.app.goo.gl/XyvmRfyxmn4qkspaA",
 "https://photos.app.goo.gl/iv9DjPrdG2ihHraV7",
 "https://photos.app.goo.gl/TY2oKPohRbWeW2xY9",
 "https://photos.app.goo.gl/xt1RuE3gCSgPh4wE9",
