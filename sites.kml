@@ -37,6 +37,13 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>1661 Pine Street, SF Entry/Exit [https://photos.app.goo.gl/oWctyi7M3uknuQUU8]</name>
+      <description/>
+      <Point>
+        <coordinates>-122.42316068047694,37.789182837363676,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>2 Wellesley Drive, Lafayette, CA [https://photos.app.goo.gl/FwH1DAkA6g4Nnpp79]</name>
       <description/>
       <Point>
@@ -587,6 +594,13 @@
       <description/>
       <Point>
         <coordinates> -122.14099633898503,37.756700519646145,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shelby White and Leon Levy Reflecting Pool [https://photos.app.goo.gl/WbitRXJAfLtLkdkF6]</name>
+      <description/>
+      <Point>
+        <coordinates>-73.87976701676692,40.863267849888864,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
