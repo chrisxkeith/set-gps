@@ -87,10 +87,7 @@ class Sorter:
             document.remove(placemark)
         for placemark in sortedPoints:
             document.append(placemark[1])
-        results = verify_urls(URLS)
-        for url, is_valid, status in results:
-            if not is_valid:
-                log("Invalid URL: " + url + " (status: " + str(status) + ")")
+        return URLS
 
     def write_kml_file(self, fn, tree):
         with open(fn, 'w') as kml_file:
@@ -108,8 +105,12 @@ class Sorter:
     def main(self):
         fn = "./sites.kml"
         tree = etree.parse(fn)
-        self.do_sort(tree)
+        URLS = self.do_sort(tree)
         self.write_kml_file(fn, tree)
+        # results = verify_urls(URLS)
+        # for url, is_valid, status in results:
+        #    if not is_valid:
+        #        log("Invalid URL: " + url + " (status: " + str(status) + ")")
         # self.write_unknowns()
 
     def test(self):
@@ -150,4 +151,4 @@ class Sorter:
 
 if '__main__' == __name__:
     Sorter().main()
-    Sorter().check_unknowns()
+    # Sorter().check_unknowns()
