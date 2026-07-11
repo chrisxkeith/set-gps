@@ -254,10 +254,24 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Foundry Square IV [https://photos.app.goo.gl/xdRx3KVmy7eae434A] *</name>
+      <name>Foundry Square 1 [https://photos.app.goo.gl/7UbZtC3Vjyt2H8vH7]</name>
       <description/>
       <Point>
-        <coordinates> -122.39637462806404,37.78855683301702,0</coordinates>
+        <coordinates> -122.39589618373682,37.78887880829648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Foundry Square 2 [https://photos.app.goo.gl/2dNPrVws2525Agcf8]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.39564438170052,37.78869466568098,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Foundry Square 4 [https://photos.app.goo.gl/xdRx3KVmy7eae434A]</name>
+      <description/>
+      <Point>
+        <coordinates> -122.3963509306927,37.78852834292033,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
